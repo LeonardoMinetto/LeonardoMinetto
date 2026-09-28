@@ -22,5 +22,5 @@ Estudante de Engenharia de Computação apaixonado por Cibersegurança.
 ![Email](https://img.shields.io/badge/leonardominetto3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LeonardoMinetto&show_icons=true&theme=default)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMinetto&layout=compact)
+![Detalhes do perfil](https://raw.githubusercontent.com/LeonardoMinetto/LeonardoMinetto/main/profile-summary-card-output/default/0-profile-details.svg)
+![Repositórios por linguagem](https://raw.githubusercontent.com/LeonardoMinetto/LeonardoMinetto/main/profile-summary-card-output/default/1-repos-per-language.svg)
