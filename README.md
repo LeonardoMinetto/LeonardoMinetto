@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Computação apaixonado por Cibersegurança.
 
-## 🔭 Em que estou trabalhando
+## 📒 Em que estou trabalhando
 
 - Estudando Docker e IoT.
 
