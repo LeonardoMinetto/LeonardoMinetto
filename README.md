@@ -4,7 +4,7 @@ Estudante de Engenharia de Computação apaixonado por Cibersegurança.
 
 ## 🔭 Em que estou trabalhando
 
-- Estudando Docker, IoT.
+- Estudando Docker e IoT.
 
 ## 🛠️ Tecnologias
 
@@ -18,9 +18,8 @@ Estudante de Engenharia de Computação apaixonado por Cibersegurança.
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-minetto-774295236)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardominetto3@gmail.com)
-
+![Email](https://img.shields.io/badge/seu@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LeonardoMinetto&show_icons=true&theme=default)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMinetto&layout=compact)
