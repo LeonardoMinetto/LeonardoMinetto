@@ -1,11 +1,10 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Leonardo 👋
 
-Estudante de [seu curso] apaixonado por [áreas de interesse: ex. desenvolvimento web, IA, visão computacional].
+Estudante de Engenharia de Computação apaixonado por Cibersegurança.
 
 ## 🔭 Em que estou trabalhando
 
-- Projeto acadêmico com [tema/tecnologia]
-- Estudando [tecnologia ou assunto atual]
+- Estudando Docker, IoT.
 
 ## 🛠️ Tecnologias
 
