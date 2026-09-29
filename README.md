@@ -1,8 +1,8 @@
 # Hi, I'm Leonardo Minetto 👋
 
-👨‍💻 Computer Engineering student & technology enthusiast
-🚀 Currently working on software development, DevOps & IoT
-📚 Always learning and building new things
+##👨‍💻 Computer Engineering student & technology enthusiast
+##🚀 Currently working on software development, DevOps & IoT
+##📚 Always learning and building new things
 
 ## 🛠️ Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
