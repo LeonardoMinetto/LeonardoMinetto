@@ -58,6 +58,6 @@ Projects involving microcontrollers, UART, SPI, timers, ADC, PWM and communicati
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-minetto-774295236)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardominetto3@gmail.com)
+📧 leonardominetto3@gmail.com  
+💼 linkedin.com/in/leonardo-minetto-774295236
 
