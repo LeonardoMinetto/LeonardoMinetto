@@ -1,17 +1,20 @@
 # Hi, I'm Leonardo Minetto 👋
 
-- 🎓 Computer Engineering student  
-- 💻 Technology enthusiast  
-- 🚀 Aspiring Software Developer
-
+🎓 Computer Engineering student at UTFPR  
+💻 Technology enthusiast  
+🔐 Interested in Cybersecurity  
+🤖 Exploring Artificial Intelligence  
+🚀 Building projects and continuously learning
   
 ## 🚀 What I'm Working On
 
 - 💻 Software Development
+- 🤖 Artificial Intelligence
 - 🐳 Docker & DevOps
 - 🌐 Internet of Things (IoT)
 - 🔌 Embedded Systems
 - 📚 Continuously learning and building new projects
+  
 
 ## 🛠️ Technologies & Tools
 
@@ -35,19 +38,25 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
+### 🧠 Orienteering Problem
+
+Optimization project developed in C using greedy algorithms and local search techniques to maximize collected rewards under a cost constraint.
+
 ### 🌐 IoT Monitoring System
 IoT architecture using ESP32 devices, MQTT, cloud services and databases for event monitoring.
 
 ### 🔌 Embedded Systems
 Projects involving microcontrollers, UART, SPI, timers, ADC, PWM and communication between embedded devices.
 
+
 ## 🎯 Goals
 
-- Become a professional in Cybersecurity
-- Become a professional Software Developer
-- Build real-world software projects
-- Learn more about Cloud Computing, DevOps and Artificial Intelligence
-- Contribute to open-source projects
+- 🔐 Become a cybersecurity professional
+- 🤖 Develop expertise in Artificial Intelligence
+- 💻 Become a professional Software Developer
+- ☁️ Improve my knowledge of Cloud Computing and DevOps
+- 🌐 Build real-world IoT and embedded systems projects
+- 🌱 Contribute to open-source projects
 
 ## 📫 Contact
 
