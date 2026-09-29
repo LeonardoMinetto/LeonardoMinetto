@@ -54,7 +54,6 @@ Projects involving microcontrollers, UART, SPI, timers, ADC, PWM and communicati
 - 🤖 Develop expertise in Artificial Intelligence
 - 💻 Become a professional Software Developer
 - ☁️ Improve my knowledge of Cloud Computing and DevOps
-- 🌐 Build real-world IoT and embedded systems projects
 - 🌱 Contribute to open-source projects
 
 ## 📫 Contact
@@ -62,7 +61,3 @@ Projects involving microcontrollers, UART, SPI, timers, ADC, PWM and communicati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-minetto-774295236)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardominetto3@gmail.com)
 
-## 📊 Statistics
-
-![Detalhes do perfil](https://raw.githubusercontent.com/LeonardoMinetto/LeonardoMinetto/main/profile-summary-card-output/default/0-profile-details.svg)
-![Repositórios por linguagem](https://raw.githubusercontent.com/LeonardoMinetto/LeonardoMinetto/main/profile-summary-card-output/default/1-repos-per-language.svg)
