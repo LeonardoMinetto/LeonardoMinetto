@@ -55,7 +55,7 @@ Projects involving microcontrollers, UART, SPI, timers, ADC, PWM and communicati
 
 - 🔐 Become a cybersecurity professional
 - 🤖 Develop expertise in Artificial Intelligence
-- 💻 Become a professional Software Developer
+- 💻 Become a Software Developer
 - ☁️ Improve my knowledge of Cloud Computing and DevOps
 - 🌱 Contribute to open-source projects
 
