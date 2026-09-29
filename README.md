@@ -37,6 +37,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
+
+## 📌 Featured Projects
+
 ### 🧠 Orienteering Problem
 
 Optimization project developed in C using greedy algorithms and local search techniques to maximize collected rewards under a cost constraint.
